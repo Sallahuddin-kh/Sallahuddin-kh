@@ -37,10 +37,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=Sallahuddin-kh&count_private=true&theme=radical&show_icons=true&hide=stars" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallahuddin-kh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
